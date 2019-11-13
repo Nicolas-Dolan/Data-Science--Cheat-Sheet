@@ -22,6 +22,7 @@ List of Data Science Cheatsheets :
 - [Machine Learning](https://github.com/abhat222/Data-Science--Cheat-Sheet#machine-learning)
 - [SQL](https://github.com/abhat222/Data-Science--Cheat-Sheet#sql)
 - [Python](https://github.com/abhat222/Data-Science--Cheat-Sheet#python)
+- Sparkles!
 
 # Python
 
